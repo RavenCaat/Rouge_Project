@@ -22,7 +22,6 @@ public class Room {
     public int getLaenge(){
         return this.laenge;
     }
-
     public int getBreite(){
         return this.breite;
     }
