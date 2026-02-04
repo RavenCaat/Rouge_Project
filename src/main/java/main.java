@@ -3,7 +3,7 @@ import org.hexworks.zircon.api.application.Application;
 import org.hexworks.zircon.api.component.ComponentAlignment;
 
 public class main {
-
+    Room raeume[];
     public static void main(String[] args) {
 
         // a TileGrid represents a 2D grid composed of Tiles
